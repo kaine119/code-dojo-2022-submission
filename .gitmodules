@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:kaine119/code-dojo-2022.git
+[submodule "server"]
+	path = server
+	url = git@github.com:ExtremelySunnyYK/Ninja-Van-Backend.git
